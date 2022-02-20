@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    font-family: arial;
+    background-color: grey;
+}
+
+p{
+    margin-top:50px;
+}
+
+img {
+    max-width: 300px;
+}
