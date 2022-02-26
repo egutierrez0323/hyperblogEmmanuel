@@ -10,6 +10,7 @@ body {
     margin: 0 auto;
     background-color: white;
     padding-bottom: 5%;
+    
 }
 
 p{
@@ -19,3 +20,4 @@ p{
 #imgPersonaje {
     max-width: 300px;
 }
+
