@@ -1,0 +1,6 @@
+este es un archivo de practica que cree para el curos de git y github en platzi
+
+Mi nombre es: Emmanuel Gutierrez, soy de colombia y tengo (a diferenciia de en la clase yo si puse mi edad :c) 21 años de edad de
+soy programador y trabajo en Sintesis Cloud S.A.S.
+
+Ahora vamos a hablar de su vida

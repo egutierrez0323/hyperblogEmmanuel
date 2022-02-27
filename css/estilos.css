@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(223, 223, 223); 
+}
+
+#contenedor {
+    max-width: 70%;
+    border: 1px solid black;
+    margin: 0 auto;
+    background-color: white;
+    padding-bottom: 5%;
+    
+}
+
+p{
+    margin-top:50px;
+}
+
+#imgPersonaje {
+    max-width: 300px;
+}
+
+.texto_adclass {
+    font-family: "Helvetica Neue",Helvetica;
+    font-size: 12px;
+    text-align: center;
+    color: orange;
+}
